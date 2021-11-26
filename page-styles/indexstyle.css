@@ -1,7 +1,19 @@
 #navbar {
    overflow: hidden;
-   background-color: #333;
+   background-color: green;
+   /* border-radius: 25px; */
+   width: 100%;
+   margin: auto;
+  
  }
+ h1 {
+    font-family: 'Courier Prime', monospace;
+ }
+
+ html, body {
+  margin:0;
+  padding:0;
+  }
 
  #center {
     margin: auto;
@@ -15,6 +27,8 @@
    text-align: center;
    padding: 14px;
    text-decoration: none;
+   border-radius: 25px;
+   background-color: #009000;
  }
  
  /* Page content */
